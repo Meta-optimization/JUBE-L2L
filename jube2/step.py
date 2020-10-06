@@ -556,7 +556,7 @@ class Operation(object):
                             time.sleep(jube2.conf.VERBOSE_STDOUT_POLL_SLEEP)
                     sub.communicate()
 
-                returncode = sub.wait()
+                returncode = 0 #sub.wait()
 
                 # Close filehandles
                 stdout.close()
