@@ -1,3 +1,10 @@
+
+**********
+This is a modified version of JUBE to work with the L2L framwework (https://github.com/Meta-optimization/L2L)
+For the original version of JUBE please go to https://www.fz-juelich.de/ias/jsc/EN/Expertise/Support/Software/JUBE/_node.html
+**********
+
+
 JUBE Benchmarking Environment
 Copyright (C) 2008-2016
 Forschungszentrum Juelich GmbH, Juelich Supercomputing Centre
